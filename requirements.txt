@@ -126,7 +126,7 @@ ipywidgets==7.4.2
 isodate==0.6.0
 javaproperties==0.5.1
 jedi==0.13.2
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 jsondiff==1.2.0
 jsonschema==2.6.0
