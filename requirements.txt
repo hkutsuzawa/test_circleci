@@ -158,7 +158,7 @@ numpy==1.15.4
 oauthlib==3.1.0
 pandas==0.24.1
 pandocfilters==1.4.2
-paramiko==2.4.2
+paramiko==2.10.1
 parso==0.3.2
 pbr==5.4.2
 pexpect==4.6.0
